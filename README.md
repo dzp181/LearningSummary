@@ -105,12 +105,12 @@
 
 # <a name="getting-started"></a>入门
 
-*   Road Map iOS：开发 iOS 应用从今天开始，苹果指南。★[官网](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
-*   Lifehacker：我想写一个 iOS 应用，该从哪里开始？[官网](http://lifehacker.com/i-want-to-write-ios-apps-where-do-i-start-1644802175)
-*   Codeproject：入门 iPhone 和 iOS 应用开发。[官网](http://www.codeproject.com/Articles/88929/Getting-Started-with-iPhone-and-iOS-Development)
-*   Ray Wenderlich：学习 iOS 应用开发。[官网](http://www.raywenderlich.com/38557/learn-to-code-ios-apps-1-welcome-to-programming)
-*   Stanford：Developing Apps to iOS：斯坦福在 iTunes U 上的 iOS App 开发课程（音频和视频）。[官网](https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-hd/id395605774?mt=10)
-*   Stanford：Developing iOS 8 Apps with Swift：斯坦福在 iTunes U 上用 Swift 开发 App 的课程（2015版）。★[官网](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+*   这是入门一
+*   这是入门二
+*   这是入门三
+*   这是入门四
+*   这是入门五
+
 
 # <a name="libraries-and-frameworks"></a>库和框架
 
@@ -921,64 +921,5 @@
 *   [Pixate](http://www.pixate.com/)
 *   [Principle](http://principleformac.com)
 
-<h1 id="weibo-weixin">微博、微信公众号</h1>
-* iOS大全 微博：[@iOS大全](http://weibo.com/u/5314643524)
-* iOS大全 微信：分享 iOS 应用开发相关行业动态、技术文章、工具资源、App 设计与推广、热门课程、高薪职位和经典书籍等。
-<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c8cw4jj2046046ab2.jpg" width=150 height=150>
 
-# <a name="twitter"></a>Twitter
-
-*   [@objcio](https://twitter.com/objcio)
-*   [@nshipster](https://twitter.com/NSHipster)
-*   [@CocoaPods](https://twitter.com/CocoaPods)
-*   [@CocoaPodsFeed](https://twitter.com/CocoaPodsFeed)
-*   [@RubyMotion](https://twitter.com/RubyMotion)
-*   [@SwiftSandbox](https://twitter.com/SwiftSandbox)：Swift 开源新闻, 项目和资源。
-
-# <a name="facebook-groups"></a>Facebook 群组
-
-*   [HH iOS](https://www.facebook.com/groups/hhios/)
-*   [Sketch：Official group](https://www.facebook.com/groups/sketchformac/)
-*   [Design-Code](https://www.facebook.com/groups/designcode/)
-*   [Sketch-Design.io](https://www.facebook.com/groups/sketchdesignio)
-*   [Origami Community](https://www.facebook.com/groups/origami.community/)
-*   [Framer JS](https://www.facebook.com/groups/framerjs/)
-
-# <a name="podcasts"></a>播客
-
-*   [The Ray Wenderlich Podcast](http://www.raywenderlich.com/rwpodcast)
-*   [Debug](http://www.imore.com/debug)
-*   [iDeveloper](http://ideveloper.co/)
-*   [App Story](http://www.appstorypodcast.com)
-*   [Mobile Couch](http://mobilecouch.co/)
-*   [iOS Bytes](https://iosbytes.codeschool.com/)
-
-# <a name="books"></a>书籍
-
-*   [Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ProgrammingWithObjectiveC.pdf)
-*   [Object-Oriented Programming with Objective-C by Apple](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/OOP_ObjC/OOP_ObjC.pdf)
-*   [The Swift Programming Language by Apple](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) ★
-*   [Using Swift with Cocoa and Objective C by Apple](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) ★
-*   [iOS Programming: The Big Nerd Ranch Guide by Christian Keur, Aaron Hillegass, Joe Conway](https://www.bignerdranch.com/we-write/ios-programming/)
-*   [Programming in Objective-C by Stephen G. Kochan](http://www.amazon.com/Programming-Objective-C-6th-Developers-Library/dp/0321967607)
-*   [Your First iOS App by Ash Furrow](https://leanpub.com/your-first-ios-app)
-*   [The Complete Friday Q &amp; A: Volume 1](https://www.mikeash.com/book.html)
-*   [Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch](http://www.amazon.com/Core-Data-iOS-Data-Driven-Applications/dp/0321670426/)
-*   [Cocoa Design Patterns](http://www.amazon.com/Cocoa-Design-Patterns-Erik-Buck/dp/0321535022)
-
-# <a name="other-awesome-lists"></a>其他优秀的列表
-
-你可以在下面找到其他十分优秀的列表
-
-*   [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 列表。
-*   [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) 开源 iOS app 列表。
-*   优秀的 Swift 列表
-*   [@matteocrippa](https://github.com/matteocrippa/awesome-swift)：一个优秀的 Swift 资源合集列表。
-*   [@Wolg](https://github.com/Wolg/awesome-swift)：一个很棒的 Swift 框架，库和软件的策划列表。
-*   [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) watchkit app 例程和教程的列表。▲
-*   [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) 一个高质量，频繁更新并且被很好维护的 iOS 教程网站的完整集合。
-*   [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)：包括了 Objective-C 和 Swift 实现的 iOS 动画库列表。
-*   [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart)：很棒的 iOS 图表库列表。包括了 Objective-C 和 Swift 两种语言。
-*   [awesome-gists](https://github.com/vsouza/awesome-gists#ios)：很棒的 Gist 列表 (iOS 章节).
-*   [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)：优秀的 iOS UI/UX 库列表。
 
