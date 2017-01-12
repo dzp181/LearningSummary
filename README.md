@@ -32,8 +32,10 @@
 
 *   [模块一](#section1)
 *   [模块二](#section2)
-*   [库和框架](#section3)
-*   [音频](#section3_title1)
+*   [模块三](#section3)
+*   [模块三的分类标题1](#section3_title1)
+*   [模块三的分类标题2](#section3_title2)
+
 *   [动画](#animation)
 *   [Apple TV](#apple-tv)
 *   [桥接](#bridging)
@@ -122,7 +124,12 @@
 
 # <a name="section3"></a>模块三
 
-### <a name="section3_title1"></a>模块三的小标题
+### <a name="section3_title1"></a>模块三的分类标题
+
+*   [模块三的分类标题](http://loveer.tech)：模块三的内容1
+*   [模块三的分类标题](http://loveer.tech)：模块三的内容2
+*   [模块三的分类标题](http://loveer.tech)：模块三的内容3
+
 
 *   [AudioBus](http://hao.jobbole.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
 *   [AudioKit](http://hao.jobbole.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
