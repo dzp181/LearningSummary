@@ -1,31 +1,16 @@
 # 个人学习总结
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-ios](https://github.com/vsouza/awesome-ios) 就是 vsouza 发起维护的 iOS 资源列表，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等。Swift 语言写成的项目会被标记为 ★ ，AppleWatch 的项目则会被标记为 ▲。
-
-Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
+--------------------------------------------------------------------------------------
+    简单介绍这个Github上的repository干嘛的
+--------------------------------------------------------------------------------------
 
 * * *
 
 ### 我们要做什么？
 
-- 基于 awesome-ios 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-- 《[BlockAlertsAnd-ActionSheets：一个支持block的弹出框](http://hao.jobbole.com/blockalertsand-actionsheets-ios/)》
-- 《[MBProgressHUD：一个不错的进度提示工具](http://hao.jobbole.com/mbprogresshud-ios/)》
-- 《[Wonderful：不仅仅是一个酷炫的颜色库](http://hao.jobbole.com/wonderful/)》
-
-* * *
-
-### 如何参与本项目？
-
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 有 iOS 开发经验；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「iOS大全」
+-  资源列表1
+-  资源列表2
+-  资源列表3
 
 * * *
 
@@ -40,26 +25,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 感谢您的贡献！
 
-* * *
-
-### 本项目的参与者
-
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：[ARIGATO](http://www.jobbole.com/members/lu123321shenzhen/)、[星满苍穹](http://www.jobbole.com/members/zhuimengren0807004/)、[天道](http://hao.jobbole.com/sound-fader-ios/)、[
-                                                                                                                                                                            huanghui1](https://github.com/huanghui1)、[Haer不变](http://www.jobbole.com/members/liushivae)、[徐健](http://www.jobbole.com/members/Xcoderj/)、[西西里的仔仔](http://www.jobbole.com/members/1595331303/)、[朱亚光在push的日常](http://www.jobbole.com/members/2055497477/)、[zjszyms](https://github.com/zjszyms)、[patchthecode](https://github.com/patchthecode)、[KevinGong2013](https://github.com/KevinGong2013)、[张发白](http://www.jobbole.com/members/shuai265/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/juliesh/)、[张发白](http://hao.jobbole.com/hardcoredata/)、You
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
-### 奖励计划
-
-虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
-
-* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
-* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
 
 * * *
 
