@@ -32,8 +32,8 @@
 
 *   [模块一](#section1)
 *   [模块二](#section2)
-*   [库和框架](#libraries-and-frameworks)
-*   [音频](#audio)
+*   [库和框架](#section3)
+*   [音频](#section3_title1)
 *   [动画](#animation)
 *   [Apple TV](#apple-tv)
 *   [桥接](#bridging)
@@ -120,9 +120,9 @@
 *   这是入门五
 
 
-# <a name="libraries-and-frameworks"></a>库和框架
+# <a name="section3"></a>模块三
 
-### <a name="audio"></a>音频
+### <a name="section3_title1"></a>模块三的小标题
 
 *   [AudioBus](http://hao.jobbole.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
 *   [AudioKit](http://hao.jobbole.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
