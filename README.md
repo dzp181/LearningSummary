@@ -7,7 +7,8 @@
 ### 目录
 
 *   [iOS开发](#section_record_iOS)
-*   [iOS开发](#section_record_minapp)
+*   [微信小程序](#section_record_minapp)
+*   [书籍、博客](#section_record_bookAndWeb)
 *   [致谢](#section_record_thanks)
 *   [联系方式](#section_record_contact)
 
@@ -35,7 +36,7 @@
 ----------------------------------------------------------------------------
 #### <a name="section1_record_json"></a>
 
-##### 1.1 json
+#### 1.1 json
 
 *   JSONKit：Objective-C JSON 工具。[官网](https://github.com/johnezang/JSONKit)
 *   TouchJSON：一个 Objective-C 的 JSON 框架。[官网](https://github.com/TouchCode/TouchJSON)
@@ -57,7 +58,7 @@
 ----------------------------------------------------------------------------
 #### <a name="section1_record_cache"></a>
 
-##### 1.2 缓存
+#### 1.2 缓存
 
 *   [SDURLCache](http://hao.jobbole.com/sdurlcache/)：URLCache的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。[官网](https://github.com/steipete/SDURLCache)
 *   [Awesome Cache](http://hao.jobbole.com/awesome-cache/)：让人喜爱的本地缓存 ★[官网](https://github.com/aschuch/AwesomeCache) 
@@ -65,9 +66,9 @@
 *   [Carlos](http://hao.jobbole.com/carlos/)：简单但却灵活的缓存 ★[官网](https://github.com/WeltN24/Carlos) 
 
 ----------------------------------------------------------------------------
-### <a name="charts"></a>图表
+### <a name="charts"></a>
 
-##### 1.3 图表
+#### 1.3 图表
 
 *   [ios-charts](http://hao.jobbole.com/ios-charts/)：一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★[官网](https://github.com/danielgindi/ios-charts)
 *   [JTChartView](http://hao.jobbole.com/jtchartview/)：JTChartView 是一个完全可定制的轻量级图表解决方案。[官网](https://github.com/kubatru/JTChartView)
@@ -83,9 +84,9 @@
 *   [TWRCharts](http://hao.jobbole.com/twrcharts/)：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
 
 ----------------------------------------------------------------------------
-### <a name="core-data"></a>Core Data
+### <a name="core-data"></a>
 
-##### 1.4 Core Data
+#### 1.4 Core Data
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
 *   [ObjectiveRecord](http://hao.jobbole.com/objectiverecord/)：ActiveRecord 的 Objective-C 版本。[官网](https://github.com/supermarin/ObjectiveRecord)
@@ -104,7 +105,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_sql"></a>
 
-##### 1.5 数据库
+#### 1.5 数据库
 
 *   Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。[官网](https://github.com/realm/realm-cocoa)
 *   YapDatabase：YapDatabase 是一个 iOS 和 Mac 上可扩展的数据库。[官网](https://github.com/yapstudios/YapDatabase)
@@ -118,14 +119,14 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_secrutity"></a>
 
-##### 1.6 加密
+#### 1.6 加密
 
 *   AESCrypt-ObjC：一个简单固执的 AES 加密／解密类，然而它就是可以很好的工作。[官网](https://github.com/Gurpartap/AESCrypt-ObjC)
 
 ----------------------------------------------------------------------------
 ### <a name="section1_record_frame"></a>
 
-##### 1.7 布局
+#### 1.7 布局
 
 *   ios-flexboxkit：一个封装了 Flexbox 布局的简单 UIKit 扩展。[官网](https://github.com/alexdrone/ios-flexboxkit)
 *   Masonry：利用简单的，链式的语法发挥出自动布局 NSLayoutConstraints 的强大功能。[官网](https://github.com/SnapKit/Masonry)
@@ -139,7 +140,7 @@
 ----------------------------------------------------------------------------
 ### <a name="logging"></a>
 
-##### 1.8 日志
+#### 1.8 日志
 
 *   CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger)
 *   CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS &amp; Mac。[官网](https://github.com/CocoaLumberjack/CocoaLumberjack)
@@ -151,7 +152,7 @@
 ----------------------------------------------------------------------------
 ### <a name="maps"></a>
 
-##### 1.9 地图
+#### 1.9 地图
 
 *   Route-me：iOS 开源地图框架[官网](https://github.com/route-me/route-me)
 *   NAMapKit：允许你在 iPhone 应用使用自定义地图，并尝试模仿 Mapkit 框架的一些行为。[官网](https://github.com/neilang/NAMapKit)
@@ -164,7 +165,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_text"></a>
 
-##### 1.10 文本
+#### 1.10 文本
 
 *   Twitter Text Obj：Twitter 的文本处理库的 Objective-C 实现。[官网](https://github.com/twitter/twitter-text)
 *   Nimbus：Nimbus 是一个为高级 iOS 软件设计师制作工具包。[官网](http://nimbuskit.info/)
@@ -183,7 +184,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_push"></a>
 
-##### 1.11 通知
+#### 1.11 通知
 
 *   Orbiter：在 iOS 中注册推送通知。[官网](https://github.com/mattt/Orbiter)
 *   PEM：为推送服务器自动生成 profile。[官网](https://github.com/fastlane/PEM)
@@ -195,7 +196,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_net"></a>
 
-##### 1.12 网络
+#### 1.12 网络
 
 *   AFNetworking：一个得心应手的 iOS 和 OSX 上的网络请求框架。[官网](https://github.com/AFNetworking/AFNetworking)
 *   RestKit：RestKit 是一个 iOS Objective-C 框架，是为了让和 RESTful web 服务交互变的简单、快捷、有趣。[官网](https://github.com/RestKit/RestKit)
@@ -218,7 +219,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_url"></a>
 
-##### 1.13 路由
+#### 1.13 路由
 
 *   WAAppRouting：iOS 的路由实现。同时处理了 URL 识别和利用控制器显示解析后的参数。全部这些只要一行代码就可以搞定，控制器堆栈还会被自动保留！[官网](https://github.com/Wasappli/WAAppRouting)
 *   DeepLinkKit：杰出的路由匹配框架，使用基于 block API 处理你的深链接。[官网](https://github.com/usebutton/DeepLinkKit)
@@ -228,7 +229,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_ui"></a>
 
-##### 1.14 UI
+#### 1.14 UI
 
 *   Chameleon：一个 iOS 性能强大的轻量级扁平化颜色框架，可以用于 Objective-C 和 Swift。★[官网](https://github.com/ViccAlexander/Chameleon)
 *   ActionSheetPicker-3.0：为 iOS App 快速制作一个下拉 UIPickerView / ActionSheet 功能。[官网](https://github.com/skywinder/ActionSheetPicker-3.0/)
@@ -373,7 +374,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_tool"></a>
 
-##### 1.15 工具
+#### 1.15 工具
 
 *   Underscore.m：用来操作数据的 DSL。[官网](https://github.com/robb/Underscore.m)
 *   SBConstants：生成一个包含了 storyboard 中所有 identifier 的常量文件。[官网](https://github.com/paulsamuels/SBConstants)
@@ -399,7 +400,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_deliver"></a>
 
-##### 1.16 部署
+#### 1.16 部署
 
 *   [fastlane](https://github.com/fastlane/fastlane) 将所有 iOS 部署工具整合到一个工作流中。
 *   [deliver](https://github.com/fastlane/deliver) 部署截屏，app 元数据和 AppStore app 更新，这一切只需要一个命令就可以搞定。
@@ -416,6 +417,8 @@
 
 
 ----------------------------------------------------------------------------
+### <a name="section_record_bookAndWeb"></a>
+
 ### 第三部分  书籍、博客(iOS)
 #### 1.1 书籍
 *   解忧杂货店
@@ -449,16 +452,20 @@
 ----------------------------------------------------------------------------
 ## <a name="section_record_thanks"></a>
 
-### 感谢开源
+### 第四部分  致谢
+
+#### 1.1 感谢开源
     感谢开源，感谢开源，感谢开源。
     感谢开源，感谢开源，感谢开源。
     感谢开源，感谢开源，感谢开源。
 
-### 仓库资源责任免责声明
+#### 1.2 仓库资源责任免责声明
 以上资源均来自[awesome-ios](https://github.com/jobbole/awesome-ios-cn) 和本人平时总结。如有侵权或者冒犯等，请通过以下方式联系本人，本人将立即做处理。
 
 ----------------------------------------------------------------------------
 ## <a name="section_record_contact"></a>
+
+### 第五部分  联系方式
 
 *   qq  : 1370778978
 *   微博 : briliantDeng
