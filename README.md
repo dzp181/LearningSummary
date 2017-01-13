@@ -1,6 +1,6 @@
 #  引言
 
-    这里是简单介绍这个Github上的repository干嘛的...
+    这里是简单介绍这个repository干嘛的...
 
 * * *
 
@@ -425,25 +425,25 @@
 
 #### 1.2 博客
 
-#####1.3 多线程
+#### 1.3 多线程
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.3 个人博客
+#### 1.3 个人博客
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.4 runtime
+#### 1.4 runtime
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.5 证书相关
+#### 1.5 证书相关
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.6 自动化集成开发
+#### 1.6 自动化集成开发
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.7 OpenGL学习
+#### 1.7 OpenGL学习
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-##### 1.8 hexo博客搭建
+#### 1.8 hexo博客搭建
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
 
