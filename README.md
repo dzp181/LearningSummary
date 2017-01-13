@@ -49,6 +49,7 @@
 
 #### 1.1 json
 
+*   YYModel: json 工具 性能较好（推荐且作者还有好几个优秀框架）。[官网](https://github.com/ibireme/YYModel)
 *   JSONKit：Objective-C JSON 工具。[官网](https://github.com/johnezang/JSONKit)
 *   TouchJSON：一个 Objective-C 的 JSON 框架。[官网](https://github.com/TouchCode/TouchJSON)
 *   JSON-Framework：这个框架用 Objective-C 实现了一个严格的 JSON 解释器和生成器。[官网](https://github.com/stig/json-framework)
