@@ -415,7 +415,7 @@
 *   [snapshot](https://github.com/fastlane/snapshot) 自动地创建全部语言和全部设备的屏幕截图。
 
 
-
+----------------------------------------------------------------------------
 ### <a name="section1_record_photoViews"></a>
 
 #### 1.17 照片选择，相片预览
@@ -432,7 +432,7 @@
 *   AMSlideMenu:左右景深侧边栏，类之前QQ的景深侧边展示。 [官网](https://github.com/SocialObjects-Software/AMSlideMenu)
 *   PKRevealController:视图靠着侧边栏，有些效果需要这种实现。 [官网](https://github.com/pkluz/PKRevealController)
 
-
+----------------------------------------------------------------------------
 ### <a name="section1_record_keyboard"></a>
 
 #### 1.18 键盘处理
@@ -441,7 +441,7 @@
 *   TPKeyboardAvoiding:另一个不错的键盘遮挡解决方案。 [官网](https://github.com/michaeltyson/TPKeyboardAvoiding)
 *   NgKeyboardTracker：iOS 的键盘跟踪 Objective-C 库。[官网](https://github.com/meiwin/NgKeyboardTracker)
 
-
+----------------------------------------------------------------------------
 ### <a name="section1_record_pushView"></a>
 
 #### 1.19 弹出视图
@@ -450,7 +450,7 @@
 *   ZFDragableModalTransition底部弹出景深层，类似淘宝的购物弹出选择层一样[官网](https://github.com/zoonooz/ZFDragableModalTransition)
 *   BubbleTransition圆润的圆形model视图：[官网](https://github.com/andreamazz/BubbleTransition)
 
-
+----------------------------------------------------------------------------
 ### <a name="section1_record_hud"></a>
 
 #### 1.20 提示、加载中
@@ -463,8 +463,8 @@
 *   M13ProgressSuite:包含了很多 iOS 上用于显示进度信息工具的封装。 [官网](https://github.com/Marxon13/M13ProgressSuite)
 *   NJKWebViewProgress:webview进度条封装。 [官网](https://github.com/ninjinkun/NJKWebViewProgress)
 
-
-### <a name="权限请求管理"></a>
+----------------------------------------------------------------------------
+### <a name="section_record_competence"></a>
 
 #### 1.21 权限请求管理
 
