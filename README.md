@@ -423,29 +423,81 @@
 ### 第三部分  书籍、博客(iOS)
 #### 1.1 书籍
 *   解忧杂货店
+*   富爸爸穷爸爸
+*   一个人的朝圣
+*   我敢在你怀里孤独
+*   追风筝的人
+*   微信小程序入门指南
+*   别再为小事生气，小事永远只是小事
 
-#### 1.2 博客
+
+#### 1.2 博客(iOS)
 
 #### 1.3 多线程
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [五个案例让你明白GCD死锁](http://ios.jobbole.com/82622/)
+*   [GCD 学习](http://sjpsega.me/blog/2015/08/31/gcd-study/)
+*   [iOS多线程实现方案之 -- GCD](http://devxiaofan.com/2016/07/28/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88%E4%B9%8B-GCD/)
+
 
 #### 1.4 runtime
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [runtime 详解](http://gcblog.github.io/2016/04/16/runtime%E8%AF%A6%E8%A7%A3/)
+*   [objective- C Runtime](http://yulingtianxia.com/blog/2016/06/15/Objective-C-Message-Sending-and-Forwarding/)
+*   [Objective-C Runtime 运行时之一：类与对象](http://southpeak.github.io/2014/10/25/objective-c-runtime-1/)
+*   [Objective-C Method Swizzling](http://sjpsega.me/blog/2014/09/17/oc-method-swizzling/)
 
 #### 1.5 证书相关
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [iOS添加测试设备与调试](http://www.lidaze.com/2015/06/07/iOS%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95%E8%AE%BE%E5%A4%87%E4%B8%8E%E8%B0%83%E8%AF%95/)
 
 #### 1.6 自动化集成开发
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [Jenkins Gitlab持续集成打包平台搭建](http://skyseraph.com/2016/07/18/Tools/Jenkins%20Gitlab%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E6%89%93%E5%8C%85%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/)
+*   [Jenkins+Github+Testflight在Mac下搭建持续集成环境(可能需翻墙)](http://www.itiger.me/?p=30)
+*   [手把手教你利用Jenkins持续集成iOS项目](http://www.cocoachina.com/ios/20160804/17281.html)
+*   [iOS自动化集成](http://www.jianshu.com/p/f4de66efad31)
+*   [手把手教你, Jenkins构建iOS项目](https://my.oschina.net/roycehe/blog/796698)
+
 
 #### 1.7 OpenGL学习
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*    [飘飘白云](http://www.cnblogs.com/kesalin/archive/2012/12/06/3D_math.html)
+*    [ljfdestiny的博客](http://blog.sina.com.cn/s/blog_6471e1bb0102vtsd.html)
+*    [OpenGLES](http://www.jianshu.com/nb/2135411)
+*    [子龙山人](http://www.cnblogs.com/andyque/archive/2011/08/08/2131019.html)
+*    [ForrestWoo](http://www.cnblogs.com/salam/tag/GPUImage/)
+
 
 #### 1.8 hexo博客搭建
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [不蒜子](http://ibruce.info/2015/04/04/busuanzi/)
+*   [Hexo博客中插入音乐/视频](https://login926.top/2016/07/20/HexoMedia/)
+*   [DPlayerの弹幕测试](https://haiwx.github.io/2016/08/08/DanMu/)
+*   [Jimxu](http://jimxu.me/categories/Hexo%E7%9B%B8%E5%85%B3/)
+*   [玩转hexo博客之next](http://www.tuicool.com/articles/NneMnuF)
+*   [hexo官网](http://theme-next.iissnan.com/getting-started.html)
+*   [hexo api](https://hexo.io/zh-cn/docs/server.html)
+*   [使用jekyll和hexo搭建免费博客](http://www.alonemonkey.com/2016/05/20/blog-by-jekyll-hexo/)
+*   [Mac搭建Hexo博客及NexT主题配置优化](http://blog.csdn.net/u011172283/article/details/51971387)
+*   [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
+*   [iOS-Learning](https://github.com/lexiaoyao20/iOS-Learning#hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2)
+
 
 #### 1.9 个人博客
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
+*   [Glow 技术团队博客](http://tech.glowing.com/cn/page/4/)
+*   [Cocoa深入学习:NSOperationQueue、NSRunLoop和线程安全](https://blog.cnbluebox.com/blog/2014/07/01/cocoashen-ru-xue-xi-nsoperationqueuehe-nsoperationyuan-li-he-shi-yong/)
+*   [iOS梦工厂](http://al1020119.github.io/)
+*   [全栈养成计划](http://fullstack.blog/)
+*   [玉令天下的博客](http://yulingtianxia.com/archives/page/4/)
+*   [iOS应用架构谈 组件化方案](http://casatwy.com/iOS-Modulization.html)
+*   [唐巧的博客](http://blog.devtang.com/)
+*   [MobileProject](https://github.com/wujunyang/MobileProject)
+*   [Zhiyi](http://zyden.vicp.cc/page/3/#blog)
+*   [我叫LastDays，我有一个心爱的白菜。](http://lastdays.cn/archives/)
+*   [sunnyxx](http://blog.sunnyxx.com/2015/06/12/objc-new-features-in-2015/)
+*   [skyseraph](http://skyseraph.com/)
+*   [王若风](http://blog.wangruofeng007.com/blog/2016/04/15/iosdi-san-fang-ku-hui-zong/)
+*   [30 个关于手机 APP 界面 UI 动效欣赏](https://gold.xitu.io/entry/582a580f67f35600631a968d
+)
+*   [ppsheep](http://ppsheep.com/)
+*   [我有绣春刀的博客](https://xiuchundao.me/)
+
 
 
 
