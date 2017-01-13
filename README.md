@@ -433,23 +433,32 @@
 
 #### 1.2 博客(iOS)
 
-##### 1.2.1 多线程
+*   [多线程](#blog_gcd)
+*   [runtime](#blog_runtime)
+*   [证书相关](#blog_certificate)
+*   [自动化集成](#blog_ci)
+*   [OpenGL](#blog_opengl)
+*   [hexo搭建](#blog_hexo)
+*   [个人博客](#blog_personalBlog)
+
+
+##### <a name="blog_gcd"></a>1.2.1 多线程
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 *   [五个案例让你明白GCD死锁](http://ios.jobbole.com/82622/)
 *   [GCD 学习](http://sjpsega.me/blog/2015/08/31/gcd-study/)
 *   [iOS多线程实现方案之 -- GCD](http://devxiaofan.com/2016/07/28/iOS%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88%E4%B9%8B-GCD/)
 
 
-##### 1.2.2 runtime
+##### <a name="blog_runtime"></a>1.2.2 runtime
 *   [runtime 详解](http://gcblog.github.io/2016/04/16/runtime%E8%AF%A6%E8%A7%A3/)
 *   [objective- C Runtime](http://yulingtianxia.com/blog/2016/06/15/Objective-C-Message-Sending-and-Forwarding/)
 *   [Objective-C Runtime 运行时之一：类与对象](http://southpeak.github.io/2014/10/25/objective-c-runtime-1/)
 *   [Objective-C Method Swizzling](http://sjpsega.me/blog/2014/09/17/oc-method-swizzling/)
 
-##### 1.2.3 证书相关
+##### <a name="blog_certificate"></a>1.2.3 证书相关
 *   [iOS添加测试设备与调试](http://www.lidaze.com/2015/06/07/iOS%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95%E8%AE%BE%E5%A4%87%E4%B8%8E%E8%B0%83%E8%AF%95/)
 
-##### 1.2.4 自动化集成开发
+##### <a name="blog_ci"></a>1.2.4 自动化集成开发
 *   [Jenkins Gitlab持续集成打包平台搭建](http://skyseraph.com/2016/07/18/Tools/Jenkins%20Gitlab%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E6%89%93%E5%8C%85%E5%B9%B3%E5%8F%B0%E6%90%AD%E5%BB%BA/)
 *   [Jenkins+Github+Testflight在Mac下搭建持续集成环境(可能需翻墙)](http://www.itiger.me/?p=30)
 *   [手把手教你利用Jenkins持续集成iOS项目](http://www.cocoachina.com/ios/20160804/17281.html)
@@ -457,7 +466,7 @@
 *   [手把手教你, Jenkins构建iOS项目](https://my.oschina.net/roycehe/blog/796698)
 
 
-##### 1.2.5 OpenGL学习
+##### <a name="blog_opengl"></a>1.2.5 OpenGL学习
 *    [飘飘白云](http://www.cnblogs.com/kesalin/archive/2012/12/06/3D_math.html)
 *    [ljfdestiny的博客](http://blog.sina.com.cn/s/blog_6471e1bb0102vtsd.html)
 *    [OpenGLES](http://www.jianshu.com/nb/2135411)
@@ -465,7 +474,7 @@
 *    [ForrestWoo](http://www.cnblogs.com/salam/tag/GPUImage/)
 
 
-##### 1.2.6 hexo博客搭建
+##### <a name="blog_hexo"></a>1.2.6 hexo博客搭建
 *   [不蒜子](http://ibruce.info/2015/04/04/busuanzi/)
 *   [Hexo博客中插入音乐/视频](https://login926.top/2016/07/20/HexoMedia/)
 *   [DPlayerの弹幕测试](https://haiwx.github.io/2016/08/08/DanMu/)
@@ -479,7 +488,7 @@
 *   [iOS-Learning](https://github.com/lexiaoyao20/iOS-Learning#hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2)
 
 
-##### 1.2.7 个人博客
+##### <a name="blog_personalBlog"></a>1.2.7 个人博客
 *   [Glow 技术团队博客](http://tech.glowing.com/cn/page/4/)
 *   [Cocoa深入学习:NSOperationQueue、NSRunLoop和线程安全](https://blog.cnbluebox.com/blog/2014/07/01/cocoashen-ru-xue-xi-nsoperationqueuehe-nsoperationyuan-li-he-shi-yong/)
 *   [iOS梦工厂](http://al1020119.github.io/)
