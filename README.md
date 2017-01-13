@@ -19,6 +19,7 @@
 ### 第一部分  iOS开发
 *   [Json](#section1_record_json)
 *   [缓存](#section1_record_cache)
+*   [图表](#section1_record_charts)
 *   [Core Data](#section1_record_coreData)
 *   [数据库](#section1_record_sql)
 *   [加密](#section1_record_secrutity)
@@ -66,7 +67,7 @@
 *   [Carlos](http://hao.jobbole.com/carlos/)：简单但却灵活的缓存 ★[官网](https://github.com/WeltN24/Carlos) 
 
 ----------------------------------------------------------------------------
-### <a name="charts"></a>
+### <a name="section1_record_charts"></a>
 
 #### 1.3 图表
 
@@ -84,7 +85,7 @@
 *   [TWRCharts](http://hao.jobbole.com/twrcharts/)：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
 
 ----------------------------------------------------------------------------
-### <a name="core-data"></a>
+### <a name="section1_record_coreData"></a>
 
 #### 1.4 Core Data
 
@@ -138,7 +139,7 @@
 *   AutoLayoutPlus：给 Auto Layout 加的一点料，由 Swift 驱动。 ★[官网](https://github.com/ruipfcosta/AutoLayoutPlus)
 
 ----------------------------------------------------------------------------
-### <a name="logging"></a>
+### <a name="section1_record_log"></a>
 
 #### 1.8 日志
 
@@ -150,7 +151,7 @@
 *   QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) 
 
 ----------------------------------------------------------------------------
-### <a name="maps"></a>
+### <a name="section1_record_map"></a>
 
 #### 1.9 地图
 
@@ -428,9 +429,6 @@
 #### 1.3 多线程
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
-#### 1.3 个人博客
-*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
-
 #### 1.4 runtime
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
@@ -446,6 +444,8 @@
 #### 1.8 hexo博客搭建
 *   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
+#### 1.9 个人博客
+*   [iCocos](http://www.cnblogs.com/iCocos/p/4553187.html)
 
 
 
