@@ -1,22 +1,20 @@
-# 1 引言
+#  引言
 
-    这里是简单介绍这个Github上的repository干嘛的...smirk
+    这里是简单介绍这个Github上的repository干嘛的...
 
 * * *
 
 ### 目录
 
-*   [学习记录](#section1_record)
-*   [为啥做这个](#section2_why)
-*   [致谢](#section3_thanks)
-*   [联系方式](#section4_contact)
-
-----------------------------------------------------------------------------
-## <a name="section1_record"></a>你到了学习记录模块
-
+*   [iOS开发](#section_record_iOS)
+*   [iOS开发](#section_record_minapp)
+*   [致谢](#section_record_thanks)
+*   [联系方式](#section_record_contact)
 
 
 ----------------------------------------------------------------------------
+#### <a name="section_record_iOS"></a>
+
 ### 第一部分  iOS开发
 *   [Json](#section1_record_json)
 *   [缓存](#section1_record_cache)
@@ -35,7 +33,7 @@
 *   [部署](#section1_record_deliver)
 
 ----------------------------------------------------------------------------
-#### <a name="section1_record_json"></a>你到了iOS开发-Json小模块
+#### <a name="section1_record_json"></a>
 
 ##### 1.1 json
 
@@ -57,7 +55,7 @@
 
 
 ----------------------------------------------------------------------------
-#### <a name="section1_record_cache"></a>你到了iOS开发-缓存小模块
+#### <a name="section1_record_cache"></a>
 
 ##### 1.2 缓存
 
@@ -104,7 +102,7 @@
 *   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_sql"></a>你到了iOS开发-数据库小模块
+### <a name="section1_record_sql"></a>
 
 ##### 1.5 数据库
 
@@ -118,14 +116,14 @@
 *   Prephirences：Prephirences 是一个提供了有用的协议和便捷的方法来管理应用的偏好设置，配置和应用状态的 Swift 库。★[官网](https://github.com/phimage/Prephirences)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_secrutity"></a>你到了iOS开发-加密小模块
+### <a name="section1_record_secrutity"></a>
 
 ##### 1.6 加密
 
 *   AESCrypt-ObjC：一个简单固执的 AES 加密／解密类，然而它就是可以很好的工作。[官网](https://github.com/Gurpartap/AESCrypt-ObjC)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_frame"></a>你到了iOS开发-布局小模块
+### <a name="section1_record_frame"></a>
 
 ##### 1.7 布局
 
@@ -139,7 +137,7 @@
 *   AutoLayoutPlus：给 Auto Layout 加的一点料，由 Swift 驱动。 ★[官网](https://github.com/ruipfcosta/AutoLayoutPlus)
 
 ----------------------------------------------------------------------------
-### <a name="logging"></a>你到了iOS开发-日志小模块
+### <a name="logging"></a>
 
 ##### 1.8 日志
 
@@ -151,7 +149,7 @@
 *   QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) 
 
 ----------------------------------------------------------------------------
-### <a name="maps"></a>你到了iOS开发-地图小模块
+### <a name="maps"></a>
 
 ##### 1.9 地图
 
@@ -164,7 +162,7 @@
 
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_text"></a>你到了iOS开发-文本小模块
+### <a name="section1_record_text"></a>
 
 ##### 1.10 文本
 
@@ -183,7 +181,7 @@
 *   YYText：iOS 上用于显示和编辑富文本的强大文本框架。[官网](https://github.com/ibireme/YYText)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_push"></a>你到了iOS开发-通知小模块
+### <a name="section1_record_push"></a>
 
 ##### 1.11 通知
 
@@ -195,7 +193,7 @@
 *   APNS-Pusher：苹果推送通知服务的调试器。[官网](https://github.com/KnuffApp/Knuff)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_net"></a>你到了iOS开发-网络小模块
+### <a name="section1_record_net"></a>
 
 ##### 1.12 网络
 
@@ -218,7 +216,7 @@
 *   NetworkEye：一个 iOS 网络调试库，可以显示 App 中的 HTTP 请求和请求的相关信息。[官网](https://github.com/coderyi/NetworkEye)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_url"></a>你到了iOS开发-路由小模块
+### <a name="section1_record_url"></a>
 
 ##### 1.13 路由
 
@@ -228,7 +226,7 @@
 *   JLRoutes：使用了 block API 的 iOS URL 路由框架。[官网](https://github.com/joeldev/JLRoutes)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_ui"></a>你到了iOS开发-UI小模块
+### <a name="section1_record_ui"></a>
 
 ##### 1.14 UI
 
@@ -373,7 +371,7 @@
 *   SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。[官网](https://github.com/John-Lluch/SWRevealViewController)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_tool"></a>你到了iOS开发-工具小模块
+### <a name="section1_record_tool"></a>
 
 ##### 1.15 工具
 
@@ -399,7 +397,7 @@
 *   ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ [官网](https://github.com/KevinGong2013/ChineseIDCardOCR)
 
 ----------------------------------------------------------------------------
-### <a name="section1_record_deliver"></a>你到了iOS开发-部署小模块
+### <a name="section1_record_deliver"></a>
 
 ##### 1.16 部署
 
@@ -411,6 +409,8 @@
 
 
 ----------------------------------------------------------------------------
+### <a name="section_record_minapp"></a>
+
 ### 第二部分  微信小程序
 *   [欢迎加入简书微信小程序专题](http://www.jianshu.com/c/ab96e6a5c5f5)
 
@@ -447,15 +447,7 @@
 
 
 ----------------------------------------------------------------------------
-## <a name="section2_why"></a>你到了为啥做这个模块
-*   这是入门一
-*   这是入门二
-*   这是入门三
-*   这是入门四
-*   这是入门五
-
-----------------------------------------------------------------------------
-## <a name="section3_thanks"></a>你到了致谢模块
+## <a name="section_record_thanks"></a>
 
 ### 感谢开源
     感谢开源，感谢开源，感谢开源。
@@ -466,7 +458,8 @@
 以上资源均来自[awesome-ios](https://github.com/jobbole/awesome-ios-cn) 和本人平时总结。如有侵权或者冒犯等，请通过以下方式联系本人，本人将立即做处理。
 
 ----------------------------------------------------------------------------
-## <a name="section4_contact"></a>你到了联系方式模块
+## <a name="section_record_contact"></a>
+
 *   qq  : 1370778978
 *   微博 : briliantDeng
 
