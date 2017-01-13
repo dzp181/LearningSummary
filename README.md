@@ -33,6 +33,15 @@
 *   [UI](#section1_record_ui)
 *   [工具](#section1_record_tool)
 *   [部署](#section1_record_deliver)
+*   [照片选择、相片预览](#section1_record_photoViews)
+*   [键盘处理](#section1_record_keyboard)
+*   [弹出视图](#section1_record_pushView)
+*   [提示、加载中](#section1_record_hud)
+*   [权限请求管理](#section_record_competence)
+
+
+
+
 
 ----------------------------------------------------------------------------
 #### <a name="section1_record_json"></a>
@@ -258,7 +267,6 @@
 *   SDevCircleButton：Swift 实现的圆型按钮。★[官网](https://github.com/0x73/SDevCircleButton)
 *   SDevFlatColors：Swift 实现的扁平化颜色。★[官网](https://github.com/0x73/SDevFlatColors)
 *   ColorArt：从图片中取出主要颜色，类似 iTunes 11 的效果。[官网](https://github.com/vinhnx/ColorArt)
-*   IQKeyboardManager：防止键盘滑出来遮挡住 UITextField/UITextView 的框架，非侵入，无需代码。[官网](https://github.com/hackiftekhar/IQKeyboardManager)
 *   WCFastCell：滚动流畅的 Tables/Collections cell (没有动画)。[官网](https://github.com/wczekalski/WCFastCell)
 *   Motif：一个基于 JSON 的可定制轻量级样式表框架。[官网](https://github.com/erichoracek/Motif)
 *   VBFPopFlatButton：基于 Facebook POP制作的，有9种不同状态动画的扁平化按钮。[官网](https://github.com/victorBaro/VBFPopFlatButton)
@@ -286,7 +294,6 @@
 *   SAHistoryNavigationViewController：SAHistoryNavigationViewController 实现了一个在 iOS 上的类似任务管理器的 UI，兼容 UINavigationContoller,3D Touch。★[官网](https://github.com/szk-atmosphere/SAHistoryNavigationViewController)
 *   DOFavoriteButton：一个可爱的动画按钮。★[官网](https://github.com/okmr-d/DOFavoriteButton)
 *   LNRSimpleNotifications：简单的 Swift app 内置通知。LNRSimpleNotifications 是一个 Swift [TSMessages](https://github.com/KrauseFx/TSMessages) 简化版本。 ★[官网](https://github.com/LISNR/LNRSimpleNotifications)
-*   NgKeyboardTracker：iOS 的键盘跟踪 Objective-C 库。[官网](https://github.com/meiwin/NgKeyboardTracker)
 *   SAInboxViewController：受到 "Inbox by google" 动画过渡效果启发的 UIViewController 子类。★[官网](https://github.com/szk-atmosphere/SAInboxViewController)
 *   TLYShyNavBar：不像那些 UINavigationBar 那么傲慢。这个 Bar 很谦虚！可以很容易地创建自动滚动的 navigation bar。[官网](https://github.com/telly/TLYShyNavBar)
 *   BRYXBanner：Swift 的 iOS7+ 样式的下拉通知。 ★[官网](https://github.com/bryx-inc/BRYXBanner)
@@ -407,6 +414,62 @@
 *   [deliver](https://github.com/fastlane/deliver) 部署截屏，app 元数据和 AppStore app 更新，这一切只需要一个命令就可以搞定。
 *   [snapshot](https://github.com/fastlane/snapshot) 自动地创建全部语言和全部设备的屏幕截图。
 
+
+
+### <a name="section1_record_photoViews"></a>
+
+#### 1.17 照片选择，相片预览
+
+*   ZLPhotoBrowser:方便易用的相册照片多选框架，支持拍照、预览快速多选；相册混合选择；原图功能等。 [官网](https://github.com/longitachi/ZLPhotoBrowser)
+*   CorePhotoBroswerVC:本地图片和网络图片的预览库。 [官网](https://github.com/CharlinFeng/CorePhotoBroswerVC)
+*   MISImagePicker:带裁剪功能的照片选择库。 [官网](https://github.com/maokebing/MISImagePicker)
+*   IDMPhotoBrowser抽屉式展示图片浏览库。[官网](https://github.com/ideaismobile/IDMPhotoBrowser)
+*   JTSImageViewController:具有深层次的图片浏览器。[官网](https://github.com/jaredsinclair/JTSImageViewController)
+*   YLGIFImage:高性能的gif图片处理库。[官网](https://github.com/liyong03/YLGIFImage)
+
+### <a name="slideMenu"></a>侧边栏
+*   MMDrawerController:包含左右侧边栏、弹性动效，实现简单。精品。 [官网](https://github.com/mutualmobile/MMDrawerController)
+*   AMSlideMenu:左右景深侧边栏，类之前QQ的景深侧边展示。 [官网](https://github.com/SocialObjects-Software/AMSlideMenu)
+*   PKRevealController:视图靠着侧边栏，有些效果需要这种实现。 [官网](https://github.com/pkluz/PKRevealController)
+
+
+### <a name="section1_record_keyboard"></a>
+
+#### 1.18 键盘处理
+
+*   [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)：IQKeyboardManager是iOS中解决键盘弹起遮挡UITextField/UITextView的一种很实用的工具。无需输入任何代码,不需要额外的设置，精品推荐。★★★★★[官网](https://github.com/rsattar/Voucher)
+*   TPKeyboardAvoiding:另一个不错的键盘遮挡解决方案。 [官网](https://github.com/michaeltyson/TPKeyboardAvoiding)
+*   NgKeyboardTracker：iOS 的键盘跟踪 Objective-C 库。[官网](https://github.com/meiwin/NgKeyboardTracker)
+
+
+### <a name="section1_record_pushView"></a>
+
+#### 1.19 弹出视图
+
+*   CNPPopupController底部弹出视图 [官网](https://github.com/carsonperrotti/CNPPopupController)
+*   ZFDragableModalTransition底部弹出景深层，类似淘宝的购物弹出选择层一样[官网](https://github.com/zoonooz/ZFDragableModalTransition)
+*   BubbleTransition圆润的圆形model视图：[官网](https://github.com/andreamazz/BubbleTransition)
+
+
+### <a name="section1_record_hud"></a>
+
+#### 1.20 提示、加载中
+
+*   MBProgressHUD:强大的Hud显示、提供了多种hud状态、自定义简单灵活。 [官网](https://github.com/jdg/MBProgressHUD)
+*   SVProgressHUD:简洁美观，轻量级的进度指示HUD。 [官网](https://github.com/TransitApp/SVProgressHUD)
+*   NVActivityIndicatorView:非常全面的loading hud集合，总有适合你心意的。 [官网](https://github.com/ninjaprox/NVActivityIndicatorView)
+*   RKNotificationHub:按钮边缘小红点的封装，有不错的动效。 [官网](https://github.com/cwRichardKim/RKNotificationHub)
+*   JDStatusBarNotification:电池栏hud状态提示。 [官网](https://github.com/jaydee3/JDStatusBarNotification)
+*   M13ProgressSuite:包含了很多 iOS 上用于显示进度信息工具的封装。 [官网](https://github.com/Marxon13/M13ProgressSuite)
+*   NJKWebViewProgress:webview进度条封装。 [官网](https://github.com/ninjinkun/NJKWebViewProgress)
+
+
+### <a name="权限请求管理"></a>
+
+#### 1.21 权限请求管理
+
+*   PermissionScope:智能的 iOS 授权 UI 和 统一的 API（支持位置、通知、照片、联系人、日历、照片、麦克风、BT、进度指示、HealthKit 和 CloudKit）。 [官网](https://github.com/nickoneill/PermissionScope)
+*   Permission:便捷地请求用户权限（支持相机、照片、麦克风、联系人、位置）。 [官网](https://github.com/delba/permission)
 
 
 
