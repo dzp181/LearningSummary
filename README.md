@@ -1,6 +1,6 @@
 #  引言
 
-    这里是简单介绍这个repository干嘛的...(持续更新哦！)
+    这里是简单介绍这个repository干嘛的...(持续更新哦！有少量需翻墙！)
 
 * * *
 
@@ -509,6 +509,8 @@
 *   [OpenGL](#blog_opengl)
 *   [hexo搭建](#blog_hexo)
 *   [个人博客](#blog_personalBlog)
+*   [block](#blog_block)
+
 
 
 ##### <a name="blog_gcd"></a>1.2.1 多线程
@@ -544,7 +546,7 @@
 
 
 ##### <a name="blog_hexo"></a>1.2.6 hexo博客搭建
-*   [不蒜子](http://ibruce.info/2015/04/04/busuanzi/)
+*   [不蒜子网站计数](http://ibruce.info/2015/04/04/busuanzi/)
 *   [Hexo博客中插入音乐/视频](https://login926.top/2016/07/20/HexoMedia/)
 *   [DPlayerの弹幕测试](https://haiwx.github.io/2016/08/08/DanMu/)
 *   [Jimxu](http://jimxu.me/categories/Hexo%E7%9B%B8%E5%85%B3/)
@@ -578,6 +580,8 @@
 *   [自己的博客](http://loveer.tech/)
 
 
+##### <a name="blog_block"></a>1.2.8 block
+*   [How Do I Declare A Block in Objective-C？](http://fuckingblocksyntax.com/)
 
 
 ----------------------------------------------------------------------------
