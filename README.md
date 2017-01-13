@@ -7,7 +7,7 @@
 ### 目录
 
 *   [iOS开发](#section_record_iOS) ★
-*   [iOS开发、微信小程序 简书专题](#section_record_jianshu) ★
+*   [iOS程序猿、微信小程序简书专题](#section_record_jianshu) ★
 *   [书籍、博客](#section_record_bookAndWeb)  ★
 *   [致谢](#section_record_thanks)
 *   [联系方式](#section_record_contact)
@@ -480,7 +480,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section_record_jianshu"></a>
 
-### 第二部分  iOS开发、微信小程序 简书专题
+### 第二部分  iOS程序猿(此专题创建者帅的一逼！)、微信小程序 简书专题
 
 *   [欢迎加入简书iOS程序猿](http://www.jianshu.com/c/527cd13a0f17)
 *   [欢迎加入简书微信小程序专题](http://www.jianshu.com/c/ab96e6a5c5f5)
