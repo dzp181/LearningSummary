@@ -7,8 +7,8 @@
 ### 目录
 
 *   [iOS开发](#section_record_iOS)
-*   [iOS开发、微信小程序 简书专题](#section_record_jianshu)
-*   [书籍、博客](#section_record_bookAndWeb)
+*   [iOS开发、微信小程序 简书专题](#section_record_jianshu)★
+*   [书籍、博客](#section_record_bookAndWeb)★
 *   [致谢](#section_record_thanks)
 *   [联系方式](#section_record_contact)
 
