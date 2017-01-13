@@ -1,9 +1,9 @@
 # 个人学习总结
 
-    这里是简单介绍这个Github上的repository干嘛的...
+    这里是简单介绍这个Github上的repository干嘛的...smirk:
 
 * * *
-
+----------------------------------------------------------------------------
 ### 目录
 
 *   [学习记录](#section1_record)
@@ -11,9 +11,10 @@
 *   [致谢](#section3_thanks)
 *   [联系方式](#section4_contact)
 
-
+----------------------------------------------------------------------------
 ## <a name="section1_record"></a>你到了学习记录模块
 
+----------------------------------------------------------------------------
 ### iOS开发
 *   [Json](#section1_record_json)
 *   [缓存](#section1_record_cache)
@@ -31,6 +32,7 @@
 *   [工具](#section1_record_tool)
 *   [部署](#section1_record_deliver)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_json"></a>你到了iOS开发-Json小模块
 
 
@@ -51,7 +53,7 @@
 *   SwiftyJSONAccelerator：使用 SwiftyJSON 或者 ObjectMapper 根据 JSON 生成 Swift 模型。支持 NSCoding 并且提供了使用 JSON 来表示模型的方法。★[官网](https://github.com/insanoid/SwiftyJSONAccelerator)
 
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_cache"></a>你到了iOS开发-缓存小模块
 
 *   [SDURLCache](http://hao.jobbole.com/sdurlcache/)：URLCache的子类，可以为 iPhone/iPad 应用提供的本地磁盘缓存。[官网](https://github.com/steipete/SDURLCache)
@@ -59,6 +61,7 @@
 *   [mattress](http://hao.jobbole.com/mattress/)：iOS Web 内容的离线缓存 ★[官网](https://github.com/buzzfeed/mattress)
 *   [Carlos](http://hao.jobbole.com/carlos/)：简单但却灵活的缓存 ★[官网](https://github.com/WeltN24/Carlos) 
 
+----------------------------------------------------------------------------
 ### <a name="charts"></a>图表
 
 *   [ios-charts](http://hao.jobbole.com/ios-charts/)：一个强大的图表框架，[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 在 iOS 上的移植。★[官网](https://github.com/danielgindi/ios-charts)
@@ -74,6 +77,7 @@
 *   [ANDLineChartView](http://hao.jobbole.com/andlinechartview/)：使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。[官网](https://github.com/anaglik/ANDLineChartView)
 *   [TWRCharts](http://hao.jobbole.com/twrcharts/)：一个 ChartJS 的 iOS 封装。结合 Obj-C 原生代码便捷地构建有动画的图表。[官网](https://github.com/chasseurmic/TWRCharts)
 
+----------------------------------------------------------------------------
 ### <a name="core-data"></a>Core Data
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
@@ -90,7 +94,7 @@
 *   QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit)
 *   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_coreData"></a>你到了iOS开发-CoreData小模块
 
 *   CWCoreData：方便并发环境下 CoreData 框架开发的扩展与实用工具。[官网](https://github.com/jayway/CWCoreData)
@@ -107,7 +111,7 @@
 *   QueryKit：一个简洁的类型安全的 CoreData 查询语言 ★[官网](https://github.com/QueryKit/QueryKit)
 *   [CoreStore](http://hao.jobbole.com/corestore/)：强大的 CoreData 框架，解决了增量迁移、获取、观察等问题。★[官网](https://github.com/JohnEstropia/CoreStore)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_sql"></a>你到了iOS开发-数据库小模块
 *   Realm：CoreData 和 SQLite 的替代品。简洁、现代、快速。[官网](https://github.com/realm/realm-cocoa)
 *   YapDatabase：YapDatabase 是一个 iOS 和 Mac 上可扩展的数据库。[官网](https://github.com/yapstudios/YapDatabase)
@@ -118,11 +122,11 @@
 *   Zephyr：轻松地通过 iCloud 同步 NSUserDefaults ★[官网](https://github.com/ArtSabintsev/Zephyr)
 *   Prephirences：Prephirences 是一个提供了有用的协议和便捷的方法来管理应用的偏好设置，配置和应用状态的 Swift 库。★[官网](https://github.com/phimage/Prephirences)
 
-
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_secrutity"></a>你到了iOS开发-加密小模块
 *   AESCrypt-ObjC：一个简单固执的 AES 加密／解密类，然而它就是可以很好的工作。[官网](https://github.com/Gurpartap/AESCrypt-ObjC)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_frame"></a>你到了iOS开发-布局小模块
 
 *   ios-flexboxkit：一个封装了 Flexbox 布局的简单 UIKit 扩展。[官网](https://github.com/alexdrone/ios-flexboxkit)
@@ -134,6 +138,7 @@
 *   Cartography：一个 Swift 编写的声明式 Auto Layout 领域专用语言（DSL）。★[官网](https://github.com/robb/Cartography)
 *   AutoLayoutPlus：给 Auto Layout 加的一点料，由 Swift 驱动。 ★[官网](https://github.com/ruipfcosta/AutoLayoutPlus)
 
+----------------------------------------------------------------------------
 ### <a name="logging"></a>日志
 
 *   CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger)
@@ -143,6 +148,7 @@
 *   BlockTypeDescription：在日志记录 block 的时候显示类型签名。[官网](https://github.com/conradev/BlockTypeDescription)
 *   QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) 
 
+----------------------------------------------------------------------------
 ### <a name="maps"></a>地图
 
 *   Route-me：iOS 开源地图框架[官网](https://github.com/route-me/route-me)
@@ -152,7 +158,7 @@
 *   [百度地图iOS SDK](http://hao.jobbole.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
 *   [百度鹰眼轨迹iOS SDK](http://hao.jobbole.com/baidu_yingyan_ios-sdk/)：一套能够进行绑路纠偏的轨迹开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=ios-yingyan)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_log"></a>你到了iOS开发-日志小模块
 *   CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger)
 *   CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS &amp; Mac。[官网](https://github.com/CocoaLumberjack/CocoaLumberjack)
@@ -162,7 +168,7 @@
 *   QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) 
 
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_map"></a>你到了iOS开发-地图小模块
 *   Route-me：iOS 开源地图框架[官网](https://github.com/route-me/route-me)
 *   NAMapKit：允许你在 iPhone 应用使用自定义地图，并尝试模仿 Mapkit 框架的一些行为。[官网](https://github.com/neilang/NAMapKit)
@@ -171,6 +177,7 @@
 *   [百度地图iOS SDK](http://hao.jobbole.com/baidu_map_ios_sdk/)：一套功能丰富的地图开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=iossdk)
 *   [百度鹰眼轨迹iOS SDK](http://hao.jobbole.com/baidu_yingyan_ios-sdk/)：一套能够进行绑路纠偏的轨迹开发工具包。[官网](http://lbsyun.baidu.com/index.php?title=ios-yingyan)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_text"></a>你到了iOS开发-文本小模块
 
 *   Twitter Text Obj：Twitter 的文本处理库的 Objective-C 实现。[官网](https://github.com/twitter/twitter-text)
@@ -187,7 +194,7 @@
 *   PhoneNumberKit：用于解析，格式化和验证国际电话号码的 Swift 框架，由谷歌的 libphonenumber 库支持。★[官网](https://github.com/marmelroy/PhoneNumberKit)
 *   YYText：iOS 上用于显示和编辑富文本的强大文本框架。[官网](https://github.com/ibireme/YYText)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_push"></a>你到了iOS开发-通知小模块
 *   Orbiter：在 iOS 中注册推送通知。[官网](https://github.com/mattt/Orbiter)
 *   PEM：为推送服务器自动生成 profile。[官网](https://github.com/fastlane/PEM)
@@ -196,6 +203,7 @@
 *   Growth Push：付费的推送通知。 它是在日本最受开发者喜爱的工具之一。[官网](https://growthpush.com)
 *   APNS-Pusher：苹果推送通知服务的调试器。[官网](https://github.com/KnuffApp/Knuff)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_net"></a>你到了iOS开发-网络小模块
 
 *   AFNetworking：一个得心应手的 iOS 和 OSX 上的网络请求框架。[官网](https://github.com/AFNetworking/AFNetworking)
@@ -216,14 +224,14 @@
 *   Reachability.swift：用 Swift 和闭包重新实现了苹果的 Reachablility 框架。★[官网](https://github.com/ashleymills/Reachability.swift)
 *   NetworkEye：一个 iOS 网络调试库，可以显示 App 中的 HTTP 请求和请求的相关信息。[官网](https://github.com/coderyi/NetworkEye)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_url"></a>你到了iOS开发-路由小模块
 *   WAAppRouting：iOS 的路由实现。同时处理了 URL 识别和利用控制器显示解析后的参数。全部这些只要一行代码就可以搞定，控制器堆栈还会被自动保留！[官网](https://github.com/Wasappli/WAAppRouting)
 *   DeepLinkKit：杰出的路由匹配框架，使用基于 block API 处理你的深链接。[官网](https://github.com/usebutton/DeepLinkKit)
 *   IntentKit：一个便捷的方法来在 iOS app 中处理第三方 URL schemes。[官网](https://github.com/intentkit/IntentKit)
 *   JLRoutes：使用了 block API 的 iOS URL 路由框架。[官网](https://github.com/joeldev/JLRoutes)
 
-
+----------------------------------------------------------------------------
 #### <a name="section1_record_ui"></a>你到了iOS开发-UI小模块
 
 *   Chameleon：一个 iOS 性能强大的轻量级扁平化颜色框架，可以用于 Objective-C 和 Swift。★[官网](https://github.com/ViccAlexander/Chameleon)
@@ -366,6 +374,7 @@
 *   EZSwipeController：![](/images/pointer.png.png)类似 Snapchat/Tinder/iOS 主页的 UIPageViewController。★[官网](https://github.com/goktugyil/EZSwipeController)
 *   SWRevealViewController：受到 FaceBook 和 Wunderlist 应用启发的 UIViewController 子类，用于显示侧滑的视图控制器。[官网](https://github.com/John-Lluch/SWRevealViewController)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_tool"></a>你到了iOS开发-工具小模块
 
 *   Underscore.m：用来操作数据的 DSL。[官网](https://github.com/robb/Underscore.m)
@@ -389,6 +398,7 @@
 *   EZSwiftExtensions：:smirk:标准类型和类是如何工作的。★[官网](https://github.com/goktugyil/EZSwiftExtensions)
 *   ChineseIDCardOCR: 利用前馈神经网络对身份证信息做OCR识别。 ★ [官网](https://github.com/KevinGong2013/ChineseIDCardOCR)
 
+----------------------------------------------------------------------------
 #### <a name="section1_record_deliver"></a>你到了iOS开发-部署小模块
 *   [fastlane](https://github.com/fastlane/fastlane) 将所有 iOS 部署工具整合到一个工作流中。
 *   [deliver](https://github.com/fastlane/deliver) 部署截屏，app 元数据和 AppStore app 更新，这一切只需要一个命令就可以搞定。
@@ -397,11 +407,13 @@
 
 
 
-
+----------------------------------------------------------------------------
 ### 微信小程序
 
+----------------------------------------------------------------------------
 ### 书籍、网站、博客
 
+----------------------------------------------------------------------------
 ## <a name="section2_why"></a>你到了为啥做这个模块
 *   这是入门一
 *   这是入门二
@@ -409,18 +421,18 @@
 *   这是入门四
 *   这是入门五
 
+----------------------------------------------------------------------------
 ## <a name="section3_thanks"></a>你到了致谢模块
 
-### <a name="section3_title1"></a>模块三的分类标题1
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容1
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容2
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容3
+### 感谢开源
+    感谢开源，感谢开源，感谢开源。
+    感谢开源，感谢开源，感谢开源。
+    感谢开源，感谢开源，感谢开源。
 
-### <a name="section3_title2"></a>模块三的分类标题2
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容1
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容2
-*   [模块三的分类标题](http://loveer.tech)：模块三的内容3
+### 仓库资源责任免责声明
+    以上资源均来自[awesome-ios](https://github.com/jobbole/awesome-ios-cn) 和本人平时总结。如有侵权或者冒犯等，请通过以下方式联系本人，本人将立即做处理。
 
+----------------------------------------------------------------------------
 ## <a name="section4_contact"></a>你到了联系方式模块
 *   qq  : 1370778978
 *   微博 : briliantDeng
