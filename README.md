@@ -38,6 +38,7 @@
 *   [弹出视图](#section1_record_pushView)
 *   [提示、加载中](#section1_record_hud)
 *   [权限请求管理](#section_record_competence)
+*   [侧边栏](#section1_record_slideMenu)
 
 
 
@@ -427,11 +428,6 @@
 *   JTSImageViewController:具有深层次的图片浏览器。[官网](https://github.com/jaredsinclair/JTSImageViewController)
 *   YLGIFImage:高性能的gif图片处理库。[官网](https://github.com/liyong03/YLGIFImage)
 
-### <a name="slideMenu"></a>侧边栏
-*   MMDrawerController:包含左右侧边栏、弹性动效，实现简单。精品。 [官网](https://github.com/mutualmobile/MMDrawerController)
-*   AMSlideMenu:左右景深侧边栏，类之前QQ的景深侧边展示。 [官网](https://github.com/SocialObjects-Software/AMSlideMenu)
-*   PKRevealController:视图靠着侧边栏，有些效果需要这种实现。 [官网](https://github.com/pkluz/PKRevealController)
-
 ----------------------------------------------------------------------------
 ### <a name="section1_record_keyboard"></a>
 
@@ -471,6 +467,13 @@
 *   PermissionScope:智能的 iOS 授权 UI 和 统一的 API（支持位置、通知、照片、联系人、日历、照片、麦克风、BT、进度指示、HealthKit 和 CloudKit）。 [官网](https://github.com/nickoneill/PermissionScope)
 *   Permission:便捷地请求用户权限（支持相机、照片、麦克风、联系人、位置）。 [官网](https://github.com/delba/permission)
 
+----------------------------------------------------------------------------
+### <a name="section1_record_slideMenu"></a>
+
+#### 1.22 侧边栏
+*   MMDrawerController:包含左右侧边栏、弹性动效，实现简单。精品。 [官网](https://github.com/mutualmobile/MMDrawerController)
+*   AMSlideMenu:左右景深侧边栏，类之前QQ的景深侧边展示。 [官网](https://github.com/SocialObjects-Software/AMSlideMenu)
+*   PKRevealController:视图靠着侧边栏，有些效果需要这种实现。 [官网](https://github.com/pkluz/PKRevealController)
 
 
 ----------------------------------------------------------------------------
