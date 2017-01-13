@@ -587,7 +587,7 @@
     感谢开源，感谢开源，感谢开源。
 
 #### 1.2 仓库资源责任免责声明
-以上资源均来自[awesome-ios](https://github.com/jobbole/awesome-ios-cn) 和本人平时总结。如有侵权或者冒犯等，请通过以下方式联系本人，本人将立即做处理。
+以上资源均来自[awesome-ios](https://github.com/jobbole/awesome-ios-cn) 、[shiyuan17](https://github.com/shiyuan17/openDoc#effectiveness)和本人平时总结。如有侵权或者冒犯等，请通过以下方式联系本人，本人将立即做处理。
 
 ----------------------------------------------------------------------------
 ## <a name="section_record_contact"></a>
