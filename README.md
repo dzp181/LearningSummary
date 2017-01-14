@@ -39,6 +39,12 @@
 *   [提示、加载中](#section1_record_hud)
 *   [权限请求管理](#section_record_competence)
 *   [侧边栏](#section1_record_slideMenu)
+*   [视频](#section1_record_video)
+*   [音频](#section1_record_music)
+*   [优化、效率](#section1_record_effectivenss)
+
+
+
 
 
 
@@ -475,6 +481,53 @@
 *   MMDrawerController:包含左右侧边栏、弹性动效，实现简单。精品。 [官网](https://github.com/mutualmobile/MMDrawerController)
 *   AMSlideMenu:左右景深侧边栏，类之前QQ的景深侧边展示。 [官网](https://github.com/SocialObjects-Software/AMSlideMenu)
 *   PKRevealController:视图靠着侧边栏，有些效果需要这种实现。 [官网](https://github.com/pkluz/PKRevealController)
+
+----------------------------------------------------------------------------
+### <a name="section1_record_video"></a>
+
+#### 1.23 视频
+
+*   MobilePlayer：一个强大完善且完全可定制的 iOS 媒体播放器。[官网](https://github.com/mobileplayer/mobileplayer-ios)
+*   VideoBeautify:视频美化，功能酷似美拍,秒拍等应用的源码：对视频进行各种美化处理，采用主题形式进行分类，内含各种滤镜，动画特效和音效等。 [官网](https://github.com/xujingzhou/VideoBeautify)
+
+----------------------------------------------------------------------------
+### <a name="section1_record_music"></a>
+
+#### 1.24 音频
+
+*   [AudioBus](http://hao.jobbole.com/audiobu/)：下一代 App 到 App 的实时音频路由。[官网](https://developer.audiob.us/)
+*   [AudioKit](http://hao.jobbole.com/audiokit/)：一个强大的音频合成，处理和分析的工具集。[官网](https://github.com/audiokit/AudioKit)
+*   [EZAudio](http://hao.jobbole.com/ezaudio/)：一个基于 Core Audio 的 iOS/OSX 音频可视化框架。用于实时，低延迟的音频处理和可视化功能的开发。[官网](https://github.com/syedhali/EZAudio)
+*   [TheAmazingAudioEngine](http://hao.jobbole.com/theamazingaudioengine/)：是iOS音频处理框架，简单易用，能对音频进行处理。[官网](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)
+*   [novocaine](http://hao.jobbole.com/novocaine/)：应用于 OSX 和 iOS 的高性能音频框架。[官网](https://github.com/alexbw/novocaine) 
+*   [QHSpeechSynthesizerQueue](http://hao.jobbole.com/qhspeechsynthesizerqueue/)：一个 `AVSpeechSynthesizer`（iOS文本发音） 的队列管理系统。[官网](https://github.com/quentinhayot/QHSpeechSynthesizerQueue)
+*   [StreamingKit](http://hao.jobbole.com/streamingkit/)：一个针对 OSX 和 iOS 中 `AudioPlayer/AudioStreamer` 快捷的无缝扩展。[官网](https://github.com/tumtumtum/StreamingKit)
+*   [sound-fader-ios](http://hao.jobbole.com/sound-fader-ios/)：一个 Swift 写的 `AVAudioPlayer` 的声音控制器 [官网](https://github.com/evgenyneu/sound-fader-ios)★
+*   ESTMusicPlayer 是基于 DOUAudioStreamer 开发的一款优雅简洁的音乐播放器 语言：Object-c ★★★[官网](https://github.com/Aufree/ESTMusicPlayer)
+
+
+----------------------------------------------------------------------------
+### <a name="section1_record_effectivenss"></a>
+
+#### 1.24 优化、效率
+
+
+*   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
+*   PINCache: 是 Pinterest 公司开发的一个快速，无死锁的并行对象缓存，支持 iOS 和 OS X 系统， 是 TMCache 的改进版本。 [官网](https://github.com/pinterest/PINCache)
+*   YYKit:是一组庞大、功能丰富的 iOS 组件。 [官网](https://github.com/ibireme/YYKit)
+*   AsyncDisplayKit：Facebook开源的能够提高UI流畅性并缩短响应时间的UI框架。 [官网](https://github.com/facebook/AsyncDisplayKit)
+*   JsPatch:可以实时修复线上bug,快速安全、使用简单的强大热更新、热修复库。 [官网](http://jspatch.com/) 
+*   GYDataCenter： 是一个高性能的SQLite数据库框架，提供了一套简单易用的面向对象的数据操作接口。[官网](https://github.com/Zepo/GYDataCenter)
+*   GYHttpMock：用于iOS App网络层开发，可以截获指定的 HTTP request，并根据规则，完全替换或部分修改真实的网络返回数据。[官网](https://github.com/hypoyao/GYHttpMock)
+*   AAMockData:有意义的测试数据模拟，方便生成测试数据。[官网](https://github.com/shiyuan17/AAMockData)
+*   MLeaksFinder：只需要引入 MLeaksFinder，就可以自动在 App 运行过程检测到内存泄露的对象并立即提醒，无需打开额外的工具。[官网](https://github.com/Zepo/MLeaksFinder)
+*   Object-c转JsPatch代码。 [官网](https://github.com/bang590/JSPatchConvertor)
+*   LKDBHelper-SQLite-ORM：sqlite封装，ORM实现。 [官网](https://github.com/li6185377/LKDBHelper-SQLite-ORM)
+*   UIView-FDCollapsibleConstraints:优雅的方式解决自动布局中子View的动态显示和隐藏的问题。 [官网](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
+*   apiary.io :创建文档API，可以快速让APP先调用，并行开发。 [官网](https://apiary.io/)
+*   FBRetainCycleDetector:facebook开发的一款检查循环引用的类库。[官网](https://github.com/facebook/FBRetainCycleDetector)
+*   AsyncDisplayKit:facebook开源的又一款精品，能够提高UI的流畅性并缩短响应时间。[官网](https://github.com/facebook/AsyncDisplayKit)
+*   TransitionKit：ios状态机，[官网](https://github.com/blakewatters/TransitionKit)
 
 
 ----------------------------------------------------------------------------
