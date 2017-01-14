@@ -6,11 +6,11 @@
 
 ### 目录
 
-*   [iOS开发](#section_record_iOS) ★
-*   [iOS程序猿、微信小程序简书专题](#section_record_jianshu) ★
-*   [书籍、博客](#section_record_bookAndWeb)  ★
-*   [致谢](#section_record_thanks)
-*   [联系方式](#section_record_contact)
+*   [iOS开发](#section_record_iOS) ★★★★★
+*   [iOS程序猿、微信小程序简书专题](#section_record_jianshu) ★★★★★
+*   [书籍、博客](#section_record_bookAndWeb)  ★★★★
+*   [致谢](#section_record_thanks) ★★★★★
+*   [联系方式](#section_record_contact) ★
 
 
 ----------------------------------------------------------------------------
@@ -509,7 +509,7 @@
 ----------------------------------------------------------------------------
 ### <a name="section1_record_effectivenss"></a>
 
-#### 1.24 优化、效率
+#### 1.25 优化、效率
 
 
 *   Aspects:面向切面编程简易实现库。精品。 [官网](https://github.com/steipete/Aspects)
@@ -543,7 +543,7 @@
 ### <a name="section_record_bookAndWeb"></a>
 
 ### 第三部分  书籍、博客(iOS)
-#### 1.1 已看完书籍目录
+#### 1.1 已看完书籍目录(个人兴趣)
 *   解忧杂货店
 *   富爸爸穷爸爸
 *   一个人的朝圣
