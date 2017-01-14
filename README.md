@@ -8,9 +8,9 @@
 
 *   [iOS开发](#section_record_iOS) ★★
 *   [iOS程序猿、微信小程序简书专题](#section_record_jianshu) ★★
-*   [书籍、博客](#section_record_bookAndWeb)   ★
-*   [致谢](#section_record_thanks) ★
-*   [联系方式](#section_record_contact) ★
+*   [书籍、博客](#section_record_bookAndWeb)   
+*   [致谢](#section_record_thanks) 
+*   [联系方式](#section_record_contact) 
 
 
 ----------------------------------------------------------------------------
