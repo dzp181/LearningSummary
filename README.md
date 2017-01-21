@@ -664,8 +664,9 @@
 
 *   qq  : 1370778978
 *   微博 : briliantDeng
-*   swiftqq群 : 605469669(只讨论swift相关技术)
-![Swift群二维码.png](http://upload-images.jianshu.io/upload_images/1874585-3a43fe8dc2eab90a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+*   swiftqq群 : 605469669[扫二维码](http://upload-images.jianshu.io/upload_images/1874585-3a43fe8dc2eab90a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 
 
