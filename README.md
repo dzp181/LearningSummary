@@ -8,7 +8,8 @@
 
 *   [iOS开发](#section_record_iOS) ★★
 *   [iOS程序猿、微信小程序简书专题](#section_record_jianshu) ★★
-*   [书籍、博客](#section_record_bookAndWeb)   
+*   [书籍、博客](#section_record_bookAndWeb)
+*   [weex](#section_record_weex)
 *   [致谢](#section_record_thanks) 
 *   [联系方式](#section_record_contact) 
 
@@ -552,6 +553,7 @@
 *   微信小程序入门指南
 *   别再为小事生气，小事永远只是小事
 *   皮囊
+*   用活你的卡
 
 ----------------------------------------------------------------------------
 #### 1.2 博客(iOS)目录
@@ -641,6 +643,58 @@
 ##### <a name="blog_block"></a>1.2.8 block
 *   [How Do I Declare A Block in Objective-C？](http://fuckingblocksyntax.com/)
 
+----------------------------------------------------------------------------
+## <a name="section_record_weex"></a>
+
+[Vue 脱坑记 - 查漏补缺(汇总下群里高频询问的xxx及给出不靠谱的解决方案) - CSDN博客](http://blog.csdn.net/crper/article/details/78470833)
+
+[vue 遇到的坑 – 杜泽](http://www.dz1995.com/2017/10/09/vue-%e9%81%87%e5%88%b0%e7%9a%84%e5%9d%91/)
+
+[Vue.js](https://cn.vuejs.org/v2/api/)
+
+[Vue.js 教程 | 菜鸟教程](http://www.runoob.com/vue2/vue-tutorial.html)
+
+[Vue.js 模板语法 | 菜鸟教程](http://www.runoob.com/vue2/vue-template-syntax.html)
+
+[WE-VUE](http://wevue.org/doc/index)
+
+[webstorm的配置和使用 - 简书](http://www.jianshu.com/p/f72dfac254ac)
+
+[weex JS 与 Native 交互 - 简书](http://www.jianshu.com/p/3622fce02de8)
+
+[Weex 事件传递的那些事儿](https://halfrost.com/weex_event/)
+
+[Weex 事件传递的那些事儿](https://zhuanlan.zhihu.com/p/26888973)
+
+[Weex 从无到有开发一款上线应用 1 - 简书](http://www.jianshu.com/p/5fe02ca05e86)
+
+[weex 安全性以及体验方面问题 · Issue #1907 · alibaba/weex · GitHub](https://github.com/alibaba/weex/issues/1907)
+
+[Weex 是如何在 iOS 客户端上跑起来的 - 简书](http://www.jianshu.com/p/41cde2c62b81)
+
+[weex-iOS实战--js,su,NetWork,MD5,void,url,view,跳转,页面](http://dev.dafan.info/detail/324690?p=18)
+
+[weex暴走青年的自频道-优酷视频](http://i.youku.com/i/UNDEzMDY2NjI0MA==/videos)
+
+[Weex的JS缓存实现 - 掘金](https://juejin.im/post/5a37224251882529c70f36ce)
+
+[「大前端」weex里native主动发送事件到JS的方案实现 - 掘金](https://juejin.im/post/59f6d6b46fb9a0450a66a143)
+
+[【新需求】Weex中native主动发送事件到JS · Issue #866 · alibaba/weex](https://github.com/alibaba/weex/issues/866)
+
+[叫我小詺 - 简书](http://www.jianshu.com/u/03bd0d57de6e)
+
+[可能是史上最全的weex踩坑攻略 - 简书](http://www.jianshu.com/p/497f1a9ff33f)
+
+[搭建开发环境 | Weex](https://weex.apache.org/cn/guide/set-up-env.html)
+
+[组件 | Element](http://element.eleme.io/#/zh-CN/component/menu)
+
+[组件封装 · Weex中文文档](https://esmeetu.gitbooks.io/weex/content/syntax/composed-component.html)
+
+[韩进的博客](http://www.aile1314.top/)
+
+[React JSX | 菜鸟教程](http://www.runoob.com/react/react-jsx.html)
 
 ----------------------------------------------------------------------------
 ## <a name="section_record_thanks"></a>
@@ -664,7 +718,6 @@
 ### 第五部分  联系方式
 
 *   qq  : 1370778978
-*   微博 : briliantDeng
 *   swiftqq群 : 605469669[扫二维码](http://upload-images.jianshu.io/upload_images/1874585-3a43fe8dc2eab90a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
